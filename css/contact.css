@@ -16,9 +16,9 @@ margin: auto;
 
 .title
 {
-font-size: 50px;
+font-size: 55px;
 font-weight: bold;
-padding: 1.5% 0;
+padding: 1.8% 0;
 color: #ffffff;
 text-align: center;
 }
@@ -68,7 +68,7 @@ color: transparent;
 
 label
 {
-color: #212121;
+color: #212122;
 position: relative;
 left: 0.5em;
 top: -2em;
@@ -100,7 +100,7 @@ button
 {
 padding: 2%;
 width: 25%;
-border: 1px solid;
+border: 2px solid;
 border-color: #212121;
 border-radius: 5px;
 font-family: inherit;
